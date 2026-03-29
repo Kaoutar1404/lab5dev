@@ -17,7 +17,9 @@ En plus des conversions, l'application demande confirmation avant de se fermer, 
 
 ## 🎬 Vidéo de démonstration
 
-https://github.com/user-attachments/assets/lab5dev.mp4
+
+https://github.com/user-attachments/assets/f8a8391f-0d44-457f-9966-995db9acc9d9
+
 
 ---
 
